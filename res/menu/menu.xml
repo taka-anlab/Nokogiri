@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menu_dialog1" android:title="学習者の変更" android:numericShortcut="1" />
+	<item android:id="@+id/menu_dialog2" android:title="角度の設定" android:numericShortcut="2" />
+</menu>
